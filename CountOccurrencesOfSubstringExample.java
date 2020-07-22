@@ -1,8 +1,8 @@
+//Das ist ein Test für Sonarcloud
  
 public class CountOccurrencesOfSubstringExample {
  
     public static void main(String[] args) {
-        
         String str = "JavaExamplesJavaCodeJavaProgram";
         
         String strFind = "Java";
